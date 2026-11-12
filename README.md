@@ -1,17 +1,25 @@
 # my_first_app
 
-A new Flutter project.
+Lab 1: Introduction to Mobile Application Development.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![App running on my phone](docs/app.jpg)
+![flutter doctor output](docs/flutterDoctor.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+## What I did
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Installed Git, VS Code, the Flutter SDK and the Android SDK
+- Ran the app on a real phone (SM A075F, Android 16)
+- Changed the greeting, the theme seed colour, and added a second Text in a Column
+- Printed the screen width with debugPrint: 384.0 dp
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What I learned and what blocked me
+The exercise was abit challenging especially in the following area
+.installing and setting up andriod studio sdk
+.understanding what the git commands actually did
+.understanding what things like hot reload means
+I learnt a few things after surpassing these challenges like
+.The hot reload shows the changes we have applied to the code on the phone without going through the long process of running it all over again
+.The andriod studio sdk is needed to either run the code on a virtual device or inorder for the phone to run the flutter code
+.Various git commands just do what we easily do on vs code like creating repositories synchinng changes made to the code and other stuff.
