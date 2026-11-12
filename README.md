@@ -6,7 +6,7 @@ Lab 1: Introduction to Mobile Application Development.
 ## Screenshots
 
 ![App running on my phone](docs/app.jpg)
-![flutter doctor output](docs/flutterDoctor.jpg)
+![flutter doctor output](docs/FlutterDoctor.png)
 
 ## What I did
 
